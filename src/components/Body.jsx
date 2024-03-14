@@ -1,5 +1,5 @@
 import './Body.css'
-import Background from '../assets/Background.png'
+import Background from '../assets/Background2.png'
 
 function Body() {
     return(
