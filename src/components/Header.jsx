@@ -3,18 +3,20 @@ import './Header.css'
 
 function Header() {
     return(
-        <div>
+        <div class="container">
             {/* Left */}
-            <div class="container">
-                <div class="avatar">
-                    <img src={Logo} 
-                    id='logo'
-                    width={40}
-                    height={40}/>
-                </div>
+            <div class="avatar">
+                <img src={Logo} 
+                id='logo'
+                width={40}
+                height={40}/>
             </div>
+            
 
             {/* Center */}
+
+
+                
             {/* Right */}
         </div>
     )
