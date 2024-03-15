@@ -1,0 +1,9 @@
+.body {
+    height: 2000vh;
+    background-color: black;
+}
+
+.body p {
+    color: white;
+    font-size: 30px;
+}

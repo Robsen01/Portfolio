@@ -5,7 +5,7 @@ import Leafs from '../assets/Leafs.jpg';
 import Mountains from '../assets/Mountains.jpg';
 
 const images = [
-  { src: Mountains, title: "Robert Naumann", subtitle: "About Me", description: "Hey, my name is Robert Nauman." },
+  { src: Mountains, title: "Robert Naumann", subtitle: "About Me", description: "Hey, my name is Robert Naumann." },
   { src: Leafs, title: "Web Design", subtitle: "Build your website", description: "You are looking for a website, but you don't know where to start? \nContact me!" },
   { src: Coding, title: "Requests", subtitle: "Contact me", description: "If you want to work together feel free to contact me!" }
 ];
