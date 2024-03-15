@@ -1,15 +1,14 @@
 import { useState } from 'react'
 import './App.css'
 import Header from './components/Header'
-import Body from './components/Body'
-import Background from './assets/Background2.png'
+import Slider from './components/Slider'
 
 function App() {
   return (
     <>
-      <div class='app'>
+      <div className='app'>
         <Header></Header>
-        <Body></Body>
+        <Slider></Slider>
       </div>
     </>
   )
